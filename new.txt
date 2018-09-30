@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new changes introduced
+=======
+what is thsi 
+>>>>>>> fxp
